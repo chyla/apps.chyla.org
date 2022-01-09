@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<interface xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+  <name>omtt</name>
+  <summary>Testing tool for checking programs console output.</summary>
+
+  <description>
+    The tool allows you to check the program correctness.
+    It will run the SUT (System Under Test) program and match the standard
+    output and exit code to assumptions given in test file.
+  </description>
+
+  <homepage>https://github.com/chyla/OutputMatchTestingTool</homepage>
+
+  <feed-for interface="https://apps.chyla.org/omtt.xml"/>
+
+
+  <group license="BSD 3-Clause License (Revised)">
+
+    <implementation version="{version}" arch="Windows-x86_64" main="omtt">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v{version}/omtt-{version}-cygwin.zip"/>
+      <manifest-digest/>
+    </implementation>
+
+    <implementation version="{version}" arch="Linux-x86_64" main="omtt">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v{version}/omtt-{version}-linux64-static.tar.gz"/>
+      <manifest-digest/>
+    </implementation>
+
+  </group>
+</interface>

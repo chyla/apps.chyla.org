@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='resources/catalog.xsl'?>
+<c:catalog xmlns:c="http://0install.de/schema/injector/catalog" xmlns="http://zero-install.sourceforge.net/2004/injector/interface"><interface uri="https://apps.chyla.org/omtt.xml"><name>omtt</name><summary>Testing tool for checking programs console output.</summary><description>
+    The tool allows you to check the program correctness.
+    It will run the SUT (System Under Test) program and match the standard
+    output and exit code to assumptions given in test file.
+  </description><homepage>https://github.com/chyla/OutputMatchTestingTool</homepage></interface></c:catalog>
+<!-- Base64 Signature
+iQIzBAABCgAdFiEEK8aIpHTpoXXG8CyRUYTvxSfaAbsFAmHba/8ACgkQUYTvxSfaAbsSGw//ec3G
+mDHQ4tV5I6z8wkpqrDQv6PJU3OR3Eh4Ok9KIBa7TPxPHq/Li78k8fr/WPjCj8oHY+wbGHjoLJxe3
+Pg8zeX9FfpG71yLee+BQdYEF/1zlB3GWIOv2G2n3OIXxECLnt7W+/ypYMsHvlagW4bW0vD83lvuO
+cb+iAb/B2QkkkV2JDVbLMpwU70Z7SpKaKYAFrjjFU90hKGLDpmgkOFi1mLOAW2sNfMT+ZpDUIbPT
+mXhRCmBqTM658Yl+Bx5S/XvwYd3efa6uE88CmKNe4jUvtsOSTVqjl2vWCB7YtFI6TGBU2DDe/Y/o
+RnCL10hwhZxJzX651V7DSOPupkxcdHzRazbvngd5WkfJTSVM+a2VHkW8oPwYpjFh+4NNHiyomT3F
+zN1BxW8rJQEfnwopZxAFw4rIgZMqFqwAXBgKENhLnRVGMfKDgzbTz1MLoZxTQouUoEl/K6O+zHgT
+e6RBI3+15QoBSrutJBj5ss67GCf0Y8Zm73VuO9A1uHcO13vONUO0/EkJtff1dZr3xqJ+knWzoLCT
+4An7YHmlkNYhQIAePRx7UxBAV+V2tGddD+QoRXBvU6X4xDzsweMiVrwSSf878/S7eoU2Rjo/g8LY
+3YU6TMkc1Ee6wjRNZxzLt6/1KIET3jiGsbXlyymp1DAvQ6WJQTHzFVA/JMi+z5cPbxiPbG8=
+
+-->
