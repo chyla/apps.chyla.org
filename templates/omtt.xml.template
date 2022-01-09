@@ -16,12 +16,12 @@
 
   <group license="BSD 3-Clause License (Revised)">
 
-    <implementation version="{version}" arch="Windows-x86_64" main="omtt">
+    <implementation version="{version}" arch="Windows-x86_64" main="omtt" stability="stable">
       <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v{version}/omtt-{version}-cygwin.zip"/>
       <manifest-digest/>
     </implementation>
 
-    <implementation version="{version}" arch="Linux-x86_64" main="omtt">
+    <implementation version="{version}" arch="Linux-x86_64" main="omtt" stability="stable">
       <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v{version}/omtt-{version}-linux64-static.tar.gz"/>
       <manifest-digest/>
     </implementation>

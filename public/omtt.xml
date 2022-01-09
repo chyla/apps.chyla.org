@@ -15,12 +15,12 @@
 
   <group license="BSD 3-Clause License (Revised)">
 
-    <implementation version="0.3.0" arch="Windows-x86_64" main="omtt" released="2021-11-04" id="sha1new=81184255a4e61181c9aea07ed2465f5fb74d73a2">
+    <implementation version="0.3.0" arch="Windows-x86_64" main="omtt" stability="stable" released="2021-11-04" id="sha1new=81184255a4e61181c9aea07ed2465f5fb74d73a2">
       <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.3.0/omtt-0.3.0-cygwin.zip" extract="omtt-0.3.0-cygwin" size="2975531"/>
       <manifest-digest sha256new="XU3AHCMRNXG7C3LO22PAIR3CTBS362IVKTUP2WX45FLW4JPFQ3PQ"/>
     </implementation>
 
-    <implementation version="0.3.0" arch="Linux-x86_64" main="omtt" released="2021-11-04" id="sha1new=86a9ffac979a77ffeba5055d04b772245703619c">
+    <implementation version="0.3.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2021-11-04" id="sha1new=86a9ffac979a77ffeba5055d04b772245703619c">
       <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.3.0/omtt-0.3.0-linux64-static.tar.gz" extract="omtt-0.3.0-linux64-static" size="2108283"/>
       <manifest-digest sha256new="7VAEEUAP5ZDSHIC4Q4C3AERATYWXCSVIZSK5MJUJGA4SQ27B6MIA"/>
     </implementation>
@@ -28,15 +28,15 @@
   </group>
 </interface>
 <!-- Base64 Signature
-iQIzBAABCgAdFiEEK8aIpHTpoXXG8CyRUYTvxSfaAbsFAmHba/8ACgkQUYTvxSfaAbuwVBAAyhZV
-NSssiduKjy1beRGw6LMdWDo/Nik6f56T5GckM99NAqHjnsVCV/aGPa/M5Pjuabc40uU3IBn0SbK+
-2fgY/CTT5xnaTNfp+VGPCgtVt6+VxfTkk+xJbv+ArCVhOUEmD7teLrwvMj3vq/mqWgxr+laWL6Sx
-dO3zR9CMAO4u/8TPHfOBgQMfyECViP4tBjKFZxCTG1N24JmF9/WSVjENhqK+9ZsNCxFoirhA/lIp
-OH9elIM9uZN+ErjibksBfhfhSE/RruUpmgZzG6TQvp33HebGgviErHHb0F+dBSQejXZkbhlph/Zm
-GhsEDP+wioIfQ7APrezh2nzFS7logrjO5PUJlAPJYY1QtdZN+yprLmEOHgpLXWbvIckcEXE3tLvf
-2UzX/DVPNY1MUh8vTBtkWh6j9R9wFgXc5TcMgpGXU4U+CHQOWa+OunCBjVzx98h5bOpWiGdxXOIH
-Lixh3vKNXDrY0ClaQHgxsZ+h+cDo+3y/z7hEL2TYqEbF2Lah+ShWgSX9Gqnsd5FSREhKEndme+21
-Z18du6D5WCUttjjqnRx2F43RcwQjsMB55qln3gQ0NHottdbwRfPnyRgIcKtAAzoit8Kf/ubOVUs5
-fbLYt1M/u4DG8ARMcVxZw3+s2vlKb4lt32rUxmIFxcnRazdTIl49RiGoYFn2nL9otmvaK7o=
+iQIzBAABCgAdFiEEK8aIpHTpoXXG8CyRUYTvxSfaAbsFAmHbbvoACgkQUYTvxSfaAbsA6A//eBP5
+iQljsUWSCGcWA2fL/iBnB/8bX4LLFN98+UHn3QzDFiRgTJ81EVDlnC9ePrTqaKIGuY1ctM396jK1
+cs4n74nvbvD9Z5vkSKbsfcfH2sT72BcE9+ADWcdw8G+qiR8e5R4L4tyW0/RMHytcU7hg94u1fEnj
+85T5ttncmpZHLiFAKVfDLutY0nY/gWtvcuSzkSVhh6v7vZnT1vBvj486P+rNdhm6wMmp0OTbHESB
+wrOgkg9IXBFWbgRT/AoX+OkDlHWCvR4m1BuMWO/Aaf4EzN7Y3aYjw7edYk+wjrZR7hFFZHn7sj0D
+zKnrGfTG0nZFY79r4FWr+hSwe5iF9io1/aoBS7E1dUP1pHKyc26GRSge3M6t9NuQAtcDOh7xrC16
+XLwZUdBYgJ25LN6VlPGQysQyBgFiKLzQG91/4L+I5a7ePIHx3LsYDbtd2vQPhESNRo3g++nTDLJr
+UHfbcOx1Pty1/TecJwz7qajiL0uCbxwSQmBEGaNYBUpQQ4y1prAjOvWOghOSdKrvG2RfygFUGCYm
+S8t2gJls0a83NhA5nUMuMkvQCQL/fidFhpPT01lT3m8kedTF9izNE9DIgPbzdMiRWnk/DTz/sEyl
+x3vesmQN+1diDJoj79ffscIeHNEaoyjkqkrZGlQQvjl0PWsLHWq2c8muRdUfDqc7LdxGaLo=
 
 -->
