@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<interface xmlns="http://zero-install.sourceforge.net/2004/injector/interface" uri="https://apps.chyla.org/omtt.xml">
+  <name>omtt</name>
+  <summary>Testing tool for checking programs console output.</summary>
+
+  <description>
+    The tool allows you to check the program correctness.
+    It will run the SUT (System Under Test) program and match the standard
+    output and exit code to assumptions given in test file.
+  </description>
+
+  <homepage>https://github.com/chyla/OutputMatchTestingTool</homepage>
+
+
+  <group license="BSD 3-Clause License (Revised)">
+
+    <implementation version="0.3.0" arch="Windows-x86_64" main="omtt" released="2021-11-04" id="sha1new=81184255a4e61181c9aea07ed2465f5fb74d73a2">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.3.0/omtt-0.3.0-cygwin.zip" extract="omtt-0.3.0-cygwin" size="2975531"/>
+      <manifest-digest sha256new="XU3AHCMRNXG7C3LO22PAIR3CTBS362IVKTUP2WX45FLW4JPFQ3PQ"/>
+    </implementation>
+
+    <implementation version="0.3.0" arch="Linux-x86_64" main="omtt" released="2021-11-04" id="sha1new=86a9ffac979a77ffeba5055d04b772245703619c">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.3.0/omtt-0.3.0-linux64-static.tar.gz" extract="omtt-0.3.0-linux64-static" size="2108283"/>
+      <manifest-digest sha256new="7VAEEUAP5ZDSHIC4Q4C3AERATYWXCSVIZSK5MJUJGA4SQ27B6MIA"/>
+    </implementation>
+
+  </group>
+</interface>
