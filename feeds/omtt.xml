@@ -24,5 +24,9 @@
       <manifest-digest sha256new="7VAEEUAP5ZDSHIC4Q4C3AERATYWXCSVIZSK5MJUJGA4SQ27B6MIA"/>
     </implementation>
 
+    <implementation version="0.2.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2020-06-10" id="sha1new=e6e25372fd85e7d251ae51131229647425052480">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.2.0/omtt-0.2.0-linux64-static.tar.gz" extract="omtt-0.2.0-linux64-static" size="915948"/>
+      <manifest-digest sha256new="WLR2BWLJ3YINQ4ABZ7LRCVOVR3O2ECZ7UDB35RNG2DJIZQTEUV4A"/>
+    </implementation>
   </group>
 </interface>
