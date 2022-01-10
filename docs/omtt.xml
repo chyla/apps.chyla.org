@@ -29,18 +29,22 @@
       <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.2.0/omtt-0.2.0-linux64-static.tar.gz" extract="omtt-0.2.0-linux64-static" size="915948"/>
       <manifest-digest sha256new="WLR2BWLJ3YINQ4ABZ7LRCVOVR3O2ECZ7UDB35RNG2DJIZQTEUV4A"/>
     </implementation>
+    <implementation version="0.1.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2020-02-28" id="sha1new=dfe2c1a2640bd3ff02acfa89219744b0790345b1">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.1.0/omtt-0.1.0-linux64-static.tar.gz" extract="omtt-0.1.0-linux64-static" size="866584"/>
+      <manifest-digest sha256new="JRSFQYF4WSGJU4JCCSLZP37P5VLJCMHL7PSQQL57PTGQYRYNDEFA"/>
+    </implementation>
   </group>
 </interface>
 <!-- Base64 Signature
-iQIzBAABCgAdFiEEK8aIpHTpoXXG8CyRUYTvxSfaAbsFAmHbgkMACgkQUYTvxSfaAbvdGRAAhq6u
-2WQ30cmpzc/ZH5xh3uw9xDXrSF/tnXWCS4pTMDhc/852ZYAyoGA8jD3FMJQn6cnhi4rqxMIxKqLy
-oAgownGBrzzxwjOF4ZwBbhuhdunxWMKJyO2RE0YgsWS03TyNshLupAYPRtOD1a556GlgMw0BqZTG
-WvCV0nOHNG2nV4g5xpRIK7TF92OlpH4N3nsIlWaCPKxOcd8IZ1whlZe/inaHCy+O85vDDCwZfXmn
-hLPNhlWei2rvIBvJpJDshkyKkZ9nTSRXW0DLhJ5zZPlJaEVut4OzFxhNyvLbJ7k/4gAFnohbWYrM
-QEsy6MUQxRZhmkGNOXOFe2IBQPbAvFJnhJpSeWnLHd17b0F23QDBMdcpP0loKbw6KmahyC1tQrCD
-rBHSzpUyqh8lwVsPx0/iOZrJuZiUDF7mnZFEt8dwMYiwswGw3zLRe2MRG0fPXa3Y+7qgxhXGsqJn
-HgQ3RKAQ09xWB/cbnMLEDUq9SA8oD8mP4UrvOdDoXnlAJPiZ8rGLulsqS+g4+6JE6rGxZvX/vnAF
-/yLpcw33aAWQpVfZZ/Jyf30g+J4pbWx/9BAqGGsJc4QrahXLUskLlyOYSpBKdEYVpFKi0THaFXaL
-aRXygNc26bBQYI0x380TSS9s1ZXTfHHhM0hBBics/T61CEEaRkGYFc/CefwwEuiFs9/z52Y=
+iQIzBAABCgAdFiEEK8aIpHTpoXXG8CyRUYTvxSfaAbsFAmHbg4MACgkQUYTvxSfaAbuTYw//XBXU
+RXHKFPrI9PdxFNkJxL6jxGjg73EaKkMbtA/M0DkPCUAkk2Sz4sel9PSbc4VhRvbsUHfhjuPZdN0Z
+CI1A1+/BZnGlIcxJY3Fyj5XjGP9/PRojD6o0U9rpnUDn8IcAAkxGlQj+Z7V0P+INqJgQRboJvOm8
+0l9ICrC7EpGoDzeR/anu1n457ygi1CpmIPCFqrfewjUGsaeEFynsRJzmM5+z2ONkC9SrD9b65D8P
+R7beYarMU5dwMDW++5vv+bCx3FuxlwDGUKh6xwDk/6lZGOCLfR9H21MneYM71wHcii966wuzpDMR
+vaBA4Xm/IYHk+INP3H/5ydOi5c+npTg3bIGl5tpfvjHFgsvtkQqoW/1Dsb65K3SgdObmn69g0EWV
+bg35NEl+SRkqASUDvgPacP7TB8+/W9+VpaukZU/KNCA9GaLhOsfyfm6O8urTQli+w7h0RuZDh14g
+3vPHmJXMnEZdXtvPmGErqJHwKlQVlrUyDVnn4Ah+aveUD1kxmWu5CYZePMrlak8UO0aRQRS8hUhr
+iNCozqVGee1uDXec/UOhNYv4SwDPPltCPDHWM4m2MAfZlNq+izhcT+W3Z2J8HJFwC1mhdWqJkdar
+Xd8nzfaej24ils/lgx2z0rjwnnldLWM/P22S8TLRgS378yJxj8xqBmgTdfbVUj+eqC1uaa4=
 
 -->
