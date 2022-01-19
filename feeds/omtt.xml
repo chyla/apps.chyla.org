@@ -32,5 +32,13 @@
       <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.1.0/omtt-0.1.0-linux64-static.tar.gz" extract="omtt-0.1.0-linux64-static" size="866584"/>
       <manifest-digest sha256new="JRSFQYF4WSGJU4JCCSLZP37P5VLJCMHL7PSQQL57PTGQYRYNDEFA"/>
     </implementation>
+    <implementation version="0.4.0" arch="Windows-x86_64" main="omtt" stability="stable" released="2022-01-19" id="sha1new=9be88ccf955894f31092d7205cf7dd34a1796c70">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.4.0/omtt-0.4.0-cygwin.zip" extract="omtt-0.4.0-cygwin" size="2123312"/>
+      <manifest-digest sha256new="NDUFB7KHSHPKLU4NADGEMAMHQZ7Q4SNBJ57I2P2ORTTSKYXANVPQ"/>
+    </implementation>
+    <implementation version="0.4.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2022-01-19" id="sha1new=beb8d8de2d2383387a5fd66e20470d21539512af">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.4.0/omtt-0.4.0-linux64-static.tar.gz" extract="omtt-0.4.0-linux64-static" size="1053489"/>
+      <manifest-digest sha256new="RHZ3VWNW6VUK7ABWTEQHILWLEUCBYYVBG5CNZXLMYYNNLWYM3NTA"/>
+    </implementation>
   </group>
 </interface>
