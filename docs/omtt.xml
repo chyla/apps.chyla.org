@@ -33,18 +33,26 @@
       <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.1.0/omtt-0.1.0-linux64-static.tar.gz" extract="omtt-0.1.0-linux64-static" size="866584"/>
       <manifest-digest sha256new="JRSFQYF4WSGJU4JCCSLZP37P5VLJCMHL7PSQQL57PTGQYRYNDEFA"/>
     </implementation>
+    <implementation version="0.4.0" arch="Windows-x86_64" main="omtt" stability="stable" released="2022-01-19" id="sha1new=9be88ccf955894f31092d7205cf7dd34a1796c70">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.4.0/omtt-0.4.0-cygwin.zip" extract="omtt-0.4.0-cygwin" size="2123312"/>
+      <manifest-digest sha256new="NDUFB7KHSHPKLU4NADGEMAMHQZ7Q4SNBJ57I2P2ORTTSKYXANVPQ"/>
+    </implementation>
+    <implementation version="0.4.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2022-01-19" id="sha1new=beb8d8de2d2383387a5fd66e20470d21539512af">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.4.0/omtt-0.4.0-linux64-static.tar.gz" extract="omtt-0.4.0-linux64-static" size="1053489"/>
+      <manifest-digest sha256new="RHZ3VWNW6VUK7ABWTEQHILWLEUCBYYVBG5CNZXLMYYNNLWYM3NTA"/>
+    </implementation>
   </group>
 </interface>
 <!-- Base64 Signature
-iQIzBAABCgAdFiEEK8aIpHTpoXXG8CyRUYTvxSfaAbsFAmHbg4MACgkQUYTvxSfaAbuTYw//XBXU
-RXHKFPrI9PdxFNkJxL6jxGjg73EaKkMbtA/M0DkPCUAkk2Sz4sel9PSbc4VhRvbsUHfhjuPZdN0Z
-CI1A1+/BZnGlIcxJY3Fyj5XjGP9/PRojD6o0U9rpnUDn8IcAAkxGlQj+Z7V0P+INqJgQRboJvOm8
-0l9ICrC7EpGoDzeR/anu1n457ygi1CpmIPCFqrfewjUGsaeEFynsRJzmM5+z2ONkC9SrD9b65D8P
-R7beYarMU5dwMDW++5vv+bCx3FuxlwDGUKh6xwDk/6lZGOCLfR9H21MneYM71wHcii966wuzpDMR
-vaBA4Xm/IYHk+INP3H/5ydOi5c+npTg3bIGl5tpfvjHFgsvtkQqoW/1Dsb65K3SgdObmn69g0EWV
-bg35NEl+SRkqASUDvgPacP7TB8+/W9+VpaukZU/KNCA9GaLhOsfyfm6O8urTQli+w7h0RuZDh14g
-3vPHmJXMnEZdXtvPmGErqJHwKlQVlrUyDVnn4Ah+aveUD1kxmWu5CYZePMrlak8UO0aRQRS8hUhr
-iNCozqVGee1uDXec/UOhNYv4SwDPPltCPDHWM4m2MAfZlNq+izhcT+W3Z2J8HJFwC1mhdWqJkdar
-Xd8nzfaej24ils/lgx2z0rjwnnldLWM/P22S8TLRgS378yJxj8xqBmgTdfbVUj+eqC1uaa4=
+iQIzBAABCgAdFiEEK8aIpHTpoXXG8CyRUYTvxSfaAbsFAmHoj30ACgkQUYTvxSfaAbuKQxAAka0G
+xY6s458fHHUpSzfEhCD1S9NgH3LQ9XzLwsQd1qcnlublOqTUmh5lkbfUlcGdMPaMUZ+DV9loWSA5
+MYt+6zLhfU43jMRBKkZPENxXCU9dcQAG3yvgKMSm5LMPrIARfE63paL8L6R58hkEOmm1r5lIdzbr
+61I6RXdJoaIDQctKaMh+Xe4UT3CjxXlRgaaFmFrYZ6Q/jlnbiuSjfupQqzZG0qI/gxpxtVZWHZrM
++QL6s302h3A6WOZwrQCRqBG278u4Bpgo1HsZaepu9W3wuCb9FR3BqYAmIJYzUB8uOhNFZUXuBT7Y
+D2QmXyKH2NvmXbixcVH/2SPnewLbK++8hHmhnM2K43gfQWJLfSD5uo3iOVQYVDTYSjm3qP35HgE+
+wHgoaUppCdOYlelZg2zoBSG2Fu1/oW+NwtYe7+DYHP9JOaJS84ODiIj7DFywUedrnFoh+QH2aEE9
+WE+iUiqt4mhijFFM8cRpW3XN6G2UmVpW0/mZs+wBchslkrozzNHdzYEx4SaYQMJXc+QWwCrArLq2
+Tryzqz3xIIe8TJSzDueRVGz5b2O85sfVwtDOsEaEaOaYl76Yu1OTWeXq0NRXseLjwOoe90ec2Cdw
+j47d/Ns3/uAvvm+fLeUM2ATwMOK0KGzDBF8rqwr6mqS5jaagCjXkmFMNlA1JhtUk3Yeca+8=
 
 -->
