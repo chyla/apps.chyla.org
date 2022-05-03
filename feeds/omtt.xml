@@ -14,23 +14,21 @@
 
   <group license="BSD 3-Clause License (Revised)">
 
-    <implementation version="0.3.0" arch="Windows-x86_64" main="omtt" stability="stable" released="2021-11-04" id="sha1new=81184255a4e61181c9aea07ed2465f5fb74d73a2">
-      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.3.0/omtt-0.3.0-cygwin.zip" extract="omtt-0.3.0-cygwin" size="2975531"/>
-      <manifest-digest sha256new="XU3AHCMRNXG7C3LO22PAIR3CTBS362IVKTUP2WX45FLW4JPFQ3PQ"/>
+    <implementation version="0.1.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2020-02-28" id="sha1new=dfe2c1a2640bd3ff02acfa89219744b0790345b1">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.1.0/omtt-0.1.0-linux64-static.tar.gz" extract="omtt-0.1.0-linux64-static" size="866584"/>
+      <manifest-digest sha256new="JRSFQYF4WSGJU4JCCSLZP37P5VLJCMHL7PSQQL57PTGQYRYNDEFA"/>
     </implementation>
-
-    <implementation version="0.3.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2021-11-04" id="sha1new=86a9ffac979a77ffeba5055d04b772245703619c">
-      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.3.0/omtt-0.3.0-linux64-static.tar.gz" extract="omtt-0.3.0-linux64-static" size="2108283"/>
-      <manifest-digest sha256new="7VAEEUAP5ZDSHIC4Q4C3AERATYWXCSVIZSK5MJUJGA4SQ27B6MIA"/>
-    </implementation>
-
     <implementation version="0.2.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2020-06-10" id="sha1new=e6e25372fd85e7d251ae51131229647425052480">
       <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.2.0/omtt-0.2.0-linux64-static.tar.gz" extract="omtt-0.2.0-linux64-static" size="915948"/>
       <manifest-digest sha256new="WLR2BWLJ3YINQ4ABZ7LRCVOVR3O2ECZ7UDB35RNG2DJIZQTEUV4A"/>
     </implementation>
-    <implementation version="0.1.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2020-02-28" id="sha1new=dfe2c1a2640bd3ff02acfa89219744b0790345b1">
-      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.1.0/omtt-0.1.0-linux64-static.tar.gz" extract="omtt-0.1.0-linux64-static" size="866584"/>
-      <manifest-digest sha256new="JRSFQYF4WSGJU4JCCSLZP37P5VLJCMHL7PSQQL57PTGQYRYNDEFA"/>
+    <implementation version="0.3.0" arch="Windows-x86_64" main="omtt" stability="stable" released="2021-11-04" id="sha1new=81184255a4e61181c9aea07ed2465f5fb74d73a2">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.3.0/omtt-0.3.0-cygwin.zip" extract="omtt-0.3.0-cygwin" size="2975531"/>
+      <manifest-digest sha256new="XU3AHCMRNXG7C3LO22PAIR3CTBS362IVKTUP2WX45FLW4JPFQ3PQ"/>
+    </implementation>
+    <implementation version="0.3.0" arch="Linux-x86_64" main="omtt" stability="stable" released="2021-11-04" id="sha1new=86a9ffac979a77ffeba5055d04b772245703619c">
+      <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.3.0/omtt-0.3.0-linux64-static.tar.gz" extract="omtt-0.3.0-linux64-static" size="2108283"/>
+      <manifest-digest sha256new="7VAEEUAP5ZDSHIC4Q4C3AERATYWXCSVIZSK5MJUJGA4SQ27B6MIA"/>
     </implementation>
     <implementation version="0.4.0" arch="Windows-x86_64" main="omtt" stability="stable" released="2022-01-19" id="sha1new=9be88ccf955894f31092d7205cf7dd34a1796c70">
       <archive href="https://github.com/chyla/OutputMatchTestingTool/releases/download/v0.4.0/omtt-0.4.0-cygwin.zip" extract="omtt-0.4.0-cygwin" size="2123312"/>
